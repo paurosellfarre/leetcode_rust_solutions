@@ -1,5 +1,6 @@
 mod s1_two_sum;
 mod s2_add_two_numbers;
+mod s151_reverse_words_in_a_string;
 mod s345_reverse_vowels_of_a_string;
 mod s605_can_place_flowers;
 mod s1071_greatest_common_divisor_of_strings;
