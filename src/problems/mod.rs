@@ -7,3 +7,4 @@ mod s238_product_of_array_except_self;
 mod s2_add_two_numbers;
 mod s345_reverse_vowels_of_a_string;
 mod s605_can_place_flowers;
+mod s334_increasing_triplet_subsequence;
